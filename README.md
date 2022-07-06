@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mridul Sharma
-- 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning Javascript and its framework and Have a good Knowledge of Data Structures
+- 👀 I Know Web Developement.
+- 🌱 I’m currently learning ReactJs and Have a good Knowledge of Data Structures using C and C++.
 - 📫 Reach me at mridul07sharma@gmail.com
 
 <!---
