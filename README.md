@@ -4,7 +4,7 @@
 - 📫 Reach me at mridul07sharma@gmail.com
 
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 [<img align="left" alt="Mridul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mridul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Mridul | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
@@ -17,6 +17,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mridul07Sharma&show_icons=true&locale=en&layout=compact" alt="Mridul07Sharma" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mridul07Sharma&show_icons=true&locale=en" alt="Mridul07Sharma" /></p>
+
+
 [mail]: mailto:mridul07sharma@gmail.com
 [instagram]: https://www.instagram.com/mridul_shxrma/
 [linkedin]: https://www.linkedin.com/in/mridul-sharma-5a8520221/
