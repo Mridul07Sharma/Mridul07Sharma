@@ -1,3 +1,4 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=Mridul07Sharma&color=brightgreen" />
 - 👋 Hi, I’m Mridul Sharma
 - 👀 I'm a passionate Web and Software Developer.
 - 🌱 I’m currently learning ReactJs and have a good Knowledge of Data Structures in C and C++.
@@ -8,6 +9,7 @@
 <p align="left">
 <a href="[https://linkedin.com/in/mridul-sharma-5a8520221](https://www.linkedin.com/in/mridul-sharma-5a8520221/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mridul-sharma-5a8520221" height="30" width="40" /></a>
 <a href="[https://instagram.com/mridul_shxrma](https://www.instagram.com/mridul_shxrma/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mridul_shxrma" height="30" width="40" /></a>
+  <a href="[mailto:mridul07sharma@gmail.com](mailto:mridul07sharma@gmail.com)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="mridul07sharma@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
