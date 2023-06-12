@@ -1,4 +1,4 @@
-###👋 Hi, I’m Mridul Sharma <img align="right" src="https://komarev.com/ghpvc/?username=Mridul07Sharma&color=brightgreen" />
+### 👋 Hi, I’m Mridul Sharma <img align="right" src="https://komarev.com/ghpvc/?username=Mridul07Sharma&color=brightgreen" />
 - 👀 I'm a passionate Web and Software Developer.
 - 🌱 I’m currently learning ReactJs and have a good Knowledge of Data Structures in C and C++.
 - 📫 Reach me at mridul07sharma@gmail.com
